@@ -1,0 +1,1 @@
+connection = 'postgresql://postgres:w0rdw0rd@localhost:5432/employeeSQL_db'
